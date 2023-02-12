@@ -1,13 +1,4 @@
-"""
-Movie recommender.
 
-Copyright (C) Martin Kondor 2019
-See the LICENSE file for more information.
-
-Example usage:
-$ python rmovie.py "lord of the rings"
-$ python rmovie.py "shawshank redemption"
-"""
 import argparse
 
 import numpy as np
